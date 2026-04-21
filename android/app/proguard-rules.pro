@@ -1,0 +1,2 @@
+-keep class com.dexterous.** { *; }
+-keep class com.google.gson.** { *; }
